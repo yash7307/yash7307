@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yash7307
+- 👋 Hi, I’m yash sahu
 - 👀 I’m interested in playing badminton
 - 🌱 I’m currently learning c language and javascript
 - 💞️ I’m looking to collaborate on ...
